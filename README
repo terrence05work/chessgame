@@ -1,5 +1,5 @@
 ## _CHESS GAME_
-NOTE: This project was one of the earliest and was made before I became comfortable with object oriented programming in python consequentially the code is ugly and not well organised or optimised
+NOTE: This project was one of the earliest and was made before I became comfortable with object oriented programming in python consequentially the code is not well optimised
 -I plan on recreating the game using objects and better documentation of my code. This will also be available in this repository
 
 ## 2 PLAYER CHESS GAME 
@@ -18,6 +18,24 @@ to win you must take the opponent's king
 There are no take backs and Checks are not shown on screen
 
 Think hard before clicking on a piece because once clicked you must move it
+
+Please download these images (you can also use your own images) with the given name to show up on the board:
+https://en.wikipedia.org/wiki/Chess_piece#/media/File:Chess_klt45.svg   -- please name image wK and save as a png file or the code will not work
+https://en.wikipedia.org/wiki/Chess_piece#/media/File:Chess_kdt45.svg   -- bK.png
+https://en.wikipedia.org/wiki/Chess_piece#/media/File:Chess_qlt45.svg   -- wq.png
+https://en.wikipedia.org/wiki/Chess_piece#/media/File:Chess_qdt45.svg   -- bq.png
+https://en.wikipedia.org/wiki/Chess_piece#/media/File:Chess_rlt45.svg   -- wr.png
+https://en.wikipedia.org/wiki/Chess_piece#/media/File:Chess_rdt45.svg   -- br.png
+https://en.wikipedia.org/wiki/Chess_piece#/media/File:Chess_blt45.svg   -- wb.png
+https://en.wikipedia.org/wiki/Chess_piece#/media/File:Chess_bdt45.svg   -- bb.png
+https://en.wikipedia.org/wiki/Chess_piece#/media/File:Chess_nlt45.svg   -- wknight.png
+https://en.wikipedia.org/wiki/Chess_piece#/media/File:Chess_ndt45.svg   -- bknight.png
+https://en.wikipedia.org/wiki/Chess_piece#/media/File:Chess_plt45.svg   -- wp.png
+https://en.wikipedia.org/wiki/Chess_piece#/media/File:Chess_pdt45.svg   -- bp.png
+
+cred: Wikipedia
+
+
 
 
 md file made with Dillinger.io

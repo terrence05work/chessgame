@@ -1,0 +1,23 @@
+## _CHESS GAME_
+NOTE: This project was one of the earliest and was made before I became comfortable with object oriented programming in python consequentially the code is ugly and not well organised or optimised
+-I plan on recreating the game using objects and better documentation of my code
+
+## 2 PLAYER CHESS GAME 
+INSTRUCTIONS:
+White goes first
+
+_To Move_:
+to move click on a piece and the legal moves will be highlighted
+
+_Taking a piece_:
+to take an opponents piece you must click on the square behind it and not on the piece itself
+
+_To win_:
+to win you must take the opponent's king
+
+There are no take backs and Checks are not shown on screen
+
+Think hard before clicking on a piece because once clicked you must move it
+
+
+md file made with Dillinger.io
